@@ -9,3 +9,13 @@ git push -u origin master
 git remote add origin git@github.com:Murali423/OOP_Day2.git
 git branch -M master
 git push -u origin master
+
+
+
+
+
+git init
+git add -A
+git commit -m 'Added my project'
+git remote add origin git@github.com:sammy/my-new-project.git
+git push -u -f origin master
